@@ -1,2 +1,2 @@
 # calculator-java
-just calculator hello world wow
+just calculator 

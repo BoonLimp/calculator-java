@@ -1,2 +1,2 @@
 # calculator-java
-just calculator 
+just calculator hello world 
